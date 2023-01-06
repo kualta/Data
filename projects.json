@@ -7,8 +7,8 @@
     "language": "LangTag::Cs",
     "tech": ["StackTag::Unity"],
     "links": [
-        { "ContentLink::GitHub(\"https://github.com/lectromoe/fuji-bot\")" },
-        { "ContentLink::GooglePlay(\"https://play.google.com/store/apps/details?id=com.lectroMathew.FujiBot&hl=en&gl=US\")" },
-     ],
+      "ContentLink::GitHub(\"https://github.com/lectromoe/fuji-bot\")",
+      "ContentLink::GooglePlay(\"https://play.google.com/store/apps/details?id=com.lectroMathew.FujiBot&hl=en&gl=US\")"
+    ]
   }
 ]
