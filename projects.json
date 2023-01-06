@@ -3,12 +3,12 @@
     "name": "Fuji Bot",
     "description": "a hardcore hypercasual game",
     "date": "SEP 2019",
-    "status": "StatusTag::Complete",
-    "language": "LangTag::Cs",
-    "tech": ["StackTag::Unity"],
+    "status": "Complete",
+    "language": "Cs",
+    "tech": ["Unity"],
     "links": [
-      "ContentLink::GitHub(\"https://github.com/lectromoe/fuji-bot\")",
-      "ContentLink::GooglePlay(\"https://play.google.com/store/apps/details?id=com.lectroMathew.FujiBot&hl=en&gl=US\")"
+      "GitHub(\"https://github.com/lectromoe/fuji-bot\")",
+      "GooglePlay(\"https://play.google.com/store/apps/details?id=com.lectroMathew.FujiBot&hl=en&gl=US\")"
     ]
   }
 ]
