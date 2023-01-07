@@ -5,7 +5,7 @@
         "date": "SEP 2019",
         "status": "Complete",
         "language": "Cs",
-        "stack": ["Unity"],
+        "stack": "Unity",
         "links": [
             ["GitHub", "https://github.com/lectromoe/fuji-bot"],
             ["Use", "https://github.com/lectromoe/fuji-bot"]
