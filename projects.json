@@ -7,8 +7,8 @@
         "language": "Cs",
         "stack": ["Unity"],
         "links": [
-            { "GitHub": "https://github.com/lectromoe/fuji-bot" },
-            { "Use": "https://github.com/lectromoe/fuji-bot" }
+            ["GitHub", "https://github.com/lectromoe/fuji-bot"],
+            ["Use", "https://github.com/lectromoe/fuji-bot"]
         ]
     }
 ]
