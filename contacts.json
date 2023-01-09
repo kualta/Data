@@ -1,0 +1,37 @@
+[
+    {
+        "name": "github",
+        "handle": "@lectromoe",
+        "link": "https://github.com/lectromoeh"
+    },
+    {
+        "name": "twitter",
+        "handle": "@lectromoe",
+        "link": "https://twitter.com/lectromoe"
+    },
+    {
+        "name": "telegram",
+        "handle": "@lectromoe",
+        "link": "https://lectro.medium.com/fair-play-the-art-of-online-games-balance-658a2cc39ea3"
+    },
+    {
+        "name": "mastodon",
+        "handle": "@lectromoe",
+        "link": "https://mastodon.gamedev.place/@lectromoe"
+    },
+    {
+        "name": "discord",
+        "handle": "lectromoe#6858",
+        "link": "https://discordapp.com/users/964306690889637900"
+    },
+    {
+        "name": "contact",
+        "handle": "contact@lectro.moe",
+        "link": "mailto:jobs@lectro.moe"
+    },
+    {
+        "name": "HR",
+        "handle": "jobs@lectro.moe",
+        "link": "mailto:jobs@lectro.moe"
+    }
+]
