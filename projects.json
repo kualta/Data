@@ -46,7 +46,7 @@
         ]
     },
     {
-        "name": "Site",
+        "name": "lectro.moe",
         "description": "a personal website",
         "date": "SEP 2022",
         "status": "Complete",
@@ -58,7 +58,7 @@
     },
     {
         "name": "Box",
-        "description": "a collection of tools for Bevy",
+        "description": "a collection of tools for the Bevy Engine",
         "date": "TBD",
         "status": "In Development",
         "language": "Rust",
