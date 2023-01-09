@@ -68,12 +68,12 @@
         ]
     },
     {
-        "name": "Pentagon",
-        "description": "a pinboard for social network analysis",
+        "name": "SNAP",
+        "description": "a social network analysis pinboard",
         "date": "TBD",
         "status": "In Development",
         "language": "TypeScript",
-        "stack": "React.JS, Next.JS",
+        "stack": "React, Next.JS",
         "links": [
             ["soon", "https://github.com/lectromoe/Pentagon"]
         ]
