@@ -3,8 +3,8 @@
         "name": "Fuji Bot",
         "description": "a hardcore hypercasual game",
         "date": "SEP 2019",
-        "status": ["Complete", "text-amber-200"],
-        "language": ["C#", "text-stone-200"],
+        "status": "Complete",
+        "language": "C#",
         "stack": "Unity",
         "links": [
             ["github", "https://github.com/lectromoe/fuji-bot"]
@@ -14,8 +14,8 @@
         "name": "Core Engine",
         "description": "a neat game engine",
         "date": "JAN 2021",
-        "status": ["Archived", "text-stone-600"],
-        "language": ["C++", "text-stone-200"],
+        "status": "Archived",
+        "language": "C++",
         "stack": "Core, Magnum, ImGUI",
         "links": [
             ["github", "https://github.com/lectromoe/Core"]
@@ -25,8 +25,8 @@
         "name": "Hemi Typer",
         "description": "an experimental typing trainer",
         "date": "MAR 2022",
-        "status": ["Complete", "text-amber-200"],
-        "language": ["Rust", "text-orange-300"],
+        "status": "Complete",
+        "language": "Rust",
         "stack": "WASM, Dioxus",
         "links": [
             ["github", "https://github.com/lectromoe/HemiTyper"],
@@ -37,8 +37,8 @@
         "name": "Pomodoro",
         "description": "a simple pomo timer",
         "date": "SEP 2022",
-        "status": ["Complete", "text-amber-200"],
-        "language": ["Rust", "text-orange-300"],
+        "status": "Complete",
+        "language": "Rust",
         "stack": "WASM, Dioxus",
         "links": [
             ["github", "https://github.com/lectromoe/Pomodoro"],
@@ -49,8 +49,8 @@
         "name": "Site",
         "description": "a personal website",
         "date": "SEP 2022",
-        "status": ["Complete", "text-amber-200"],
-        "language": ["Rust", "text-orange-300"],
+        "status": "Complete",
+        "language": "Rust",
         "stack": "WASM, Dioxus, Reqwest",
         "links": [
             ["github", "https://github.com/lectromoe/Site"]
@@ -60,8 +60,8 @@
         "name": "Box",
         "description": "a collection of tools for Bevy",
         "date": "TBD",
-        "status": ["In Development", "text-emerald-200"],
-        "language": ["Rust", "text-orange-300"],
+        "status": "In Development",
+        "language": "Rust",
         "stack": "Bevy",
         "links": [
             ["github", "https://github.com/lectromoe/Box"]
@@ -71,9 +71,9 @@
         "name": "Pentagon",
         "description": "a pinboard for social network analysis",
         "date": "TBD",
-        "status": ["In Development", "text-emerald-200"],
-        "language": ["TypeScript", "text-sky-200"],
-        "stack": "React, Next, TS",
+        "status": "In Development",
+        "language": "TypeScript",
+        "stack": "React.JS, Next.JS",
         "links": [
             ["soon", "https://github.com/lectromoe/Pentagon"]
         ]
