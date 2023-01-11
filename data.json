@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "name": "Fuji Bot",
+            "name": "Fuji",
             "description": "a hardcore hypercasual game",
             "date": "SEP 2019",
             "status": "Complete",
@@ -12,7 +12,7 @@
             ]
         },
         {
-            "name": "Core Engine",
+            "name": "Core",
             "description": "a neat game engine",
             "date": "JAN 2021",
             "status": "Archived",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Hemi Typer",
+            "name": "Hemi",
             "description": "an experimental typing trainer",
             "date": "MAR 2022",
             "status": "Complete",
@@ -35,8 +35,8 @@
             ]
         },
         {
-            "name": "Pomodoro",
-            "description": "a simple pomo timer",
+            "name": "Pomo",
+            "description": "a simple pomodoro timer",
             "date": "SEP 2022",
             "status": "Complete",
             "language": "Rust",
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "name": "lectro.moe",
+            "name": "Site",
             "description": "a personal website",
             "date": "SEP 2022",
             "status": "Complete",
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "name": "SNAP",
+            "name": "Snap",
             "description": "a social network analysis pinboard",
             "date": "TBD",
             "status": "In Development",
