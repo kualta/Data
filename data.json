@@ -120,14 +120,9 @@
             "link": "https://discordapp.com/users/964306690889637900"
         },
         {
-            "name": "feedback",
-            "handle": "contact@lectro.moe",
-            "link": "mailto:contact@lectro.moe"
-        },
-        {
-            "name": "hr",
-            "handle": "jobs@lectro.moe",
-            "link": "mailto:jobs@lectro.moe"
+            "name": "mail",
+            "handle": "lectromoe@gmail.com",
+            "link": "mailto:lectromoe@gmail.com"
         }
     ]
 }
