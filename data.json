@@ -30,8 +30,8 @@
             "language": "Rust",
             "stack": "WASM, Dioxus",
             "links": [
-                ["github", "https://github.com/lectromoe/HemiTyper"],
-                ["use", "https://lectromoe.github.io/HemiTyper/"]
+                ["github", "https://github.com/lectromoe/Hemi"],
+                ["use", "https://lectromoe.github.io/Hemi/"]
             ]
         },
         {
@@ -42,8 +42,8 @@
             "language": "Rust",
             "stack": "WASM, Dioxus",
             "links": [
-                ["github", "https://github.com/lectromoe/Pomodoro"],
-                ["use", "https://lectromoe.github.io/Pomodoro/"]
+                ["github", "https://github.com/lectromoe/Pomo"],
+                ["use", "https://lectromoe.github.io/Pomo/"]
             ]
         },
         {
@@ -76,7 +76,7 @@
             "language": "TypeScript",
             "stack": "React, Next.JS",
             "links": [
-                ["github", "https://github.com/lectromoe/Pentagon"]
+                ["github", "https://github.com/lectromoe/Snap"]
             ]
         }
     ],
@@ -97,7 +97,7 @@
         {
             "name": "github",
             "handle": "@lectromoe",
-            "link": "https://github.com/lectromoeh"
+            "link": "https://github.com/lectromoe"
         },
         {
             "name": "twitter",
