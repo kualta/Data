@@ -8,7 +8,7 @@
             "language": "C#",
             "stack": "Unity",
             "links": [
-                ["github", "https://github.com/lectromoe/fuji-bot"]
+                ["github", "https://github.com/kualta/fuji-bot"]
             ]
         },
         {
@@ -19,7 +19,7 @@
             "language": "C++",
             "stack": "Core, Magnum, ImGUI",
             "links": [
-                ["github", "https://github.com/lectromoe/Core"]
+                ["github", "https://github.com/kualta/Core"]
             ]
         },
         {
@@ -30,8 +30,8 @@
             "language": "Rust",
             "stack": "WASM, Dioxus",
             "links": [
-                ["github", "https://github.com/lectromoe/Hemi"],
-                ["use", "https://lectromoe.github.io/Hemi/"]
+                ["github", "https://github.com/kualta/Hemi"],
+                ["use", "https://kualta.github.io/Hemi/"]
             ]
         },
         {
@@ -42,8 +42,8 @@
             "language": "Rust",
             "stack": "WASM, Dioxus",
             "links": [
-                ["github", "https://github.com/lectromoe/Pomo"],
-                ["use", "https://lectromoe.github.io/Pomo/"]
+                ["github", "https://github.com/kualta/Pomo"],
+                ["use", "https://kualta.github.io/Pomo/"]
             ]
         },
         {
@@ -54,7 +54,7 @@
             "language": "Rust",
             "stack": "WASM, Dioxus, Reqwest",
             "links": [
-                ["github", "https://github.com/lectromoe/Site"]
+                ["github", "https://github.com/kualta/Site"]
             ]
         },
         {
@@ -65,7 +65,7 @@
             "language": "Rust",
             "stack": "Bevy",
             "links": [
-                ["github", "https://github.com/lectromoe/Box"]
+                ["github", "https://github.com/kualta/Box"]
             ]
         },
         {
@@ -76,7 +76,7 @@
             "language": "TypeScript",
             "stack": "React, Next.JS",
             "links": [
-                ["github", "https://github.com/lectromoe/Snap"]
+                ["github", "https://github.com/kualta/Snap"]
             ]
         }
     ],
@@ -96,28 +96,28 @@
     "contacts": [
         {
             "name": "github",
-            "handle": "@lectromoe",
-            "link": "https://github.com/lectromoe"
+            "handle": "@kualta",
+            "link": "https://github.com/kualta"
         },
         {
             "name": "twitter",
-            "handle": "@lectromoe",
-            "link": "https://twitter.com/lectromoe"
+            "handle": "@realkualta",
+            "link": "https://twitter.com/realkualta"
         },
         {
             "name": "mastodon",
-            "handle": "@lectromoe",
-            "link": "https://mastodon.gamedev.place/@lectromoe"
+            "handle": "@kualta",
+            "link": "https://mastodon.gamedev.place/@kualta"
         },
         {
             "name": "discord",
-            "handle": "lectromoe#6858",
-            "link": "https://discordapp.com/users/964306690889637900"
+            "handle": "kualta#9039",
+            "link": "https://discordapp.com/users/732569277550428180"
         },
         {
             "name": "mail",
-            "handle": "contact@lectro.moe",
-            "link": "mailto:contact@lectro.moe"
+            "handle": "contact@kualta.dev",
+            "link": "mailto:contact@kualta.dev"
         }
     ]
 }
