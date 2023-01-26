@@ -105,6 +105,11 @@
             "link": "https://twitter.com/realkualta"
         },
         {
+            "name": "youtube",
+            "handle": "@kualta",
+            "link": "https://youtube.com/kualta"
+        },
+        {
             "name": "mastodon",
             "handle": "@kualta",
             "link": "https://mastodon.gamedev.place/@kualta"
