@@ -75,12 +75,12 @@
     "contacts": [
         {
             "name": "mail",
-            "description": "hr",
+            "description": "jobs@kualta.dev",
             "link": "mailto:jobs@kualta.dev"
         },
         {
             "name": "mail",
-            "description": "dm",
+            "description": "contact@kualta.dev",
             "link": "mailto:contact@kualta.dev"
         },
         {
