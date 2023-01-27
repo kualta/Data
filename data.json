@@ -105,24 +105,9 @@
             "link": "https://twitter.com/realkualta"
         },
         {
-            "name": "mastodon",
-            "handle": "@kualta",
-            "link": "https://mastodon.gamedev.place/@kualta"
-        },
-        {
-            "name": "discord",
-            "handle": "kualta#9039",
-            "link": "https://discordapp.com/users/732569277550428180"
-        },
-        {
             "name": "youtube",
             "handle": "@kualta",
             "link": "https://youtube.com/@kualta"
-        },
-        {
-            "name": "mail",
-            "handle": "contact@kualta.dev",
-            "link": "mailto:contact@kualta.dev"
         }
     ]
 }
