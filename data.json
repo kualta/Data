@@ -79,14 +79,14 @@
             "link": "https://github.com/kualta"
         },
         {
-            "name": "twitter",
-            "description": "@realkualta",
-            "link": "https://twitter.com/realkualta"
-        },
-        {
             "name": "youtube",
             "description": "@kualta",
             "link": "https://youtube.com/@kualta"
+        },
+        {
+            "name": "twitter",
+            "description": "@realkualta",
+            "link": "https://twitter.com/realkualta"
         }
     ]
 }
