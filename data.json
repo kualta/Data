@@ -74,6 +74,16 @@
     ],
     "contacts": [
         {
+            "name": "mail",
+            "description": "hr",
+            "link": "mailto:jobs@kualta.dev"
+        },
+        {
+            "name": "mail",
+            "description": "dm",
+            "link": "mailto:contact@kualta.dev"
+        },
+        {
             "name": "github",
             "description": "@kualta",
             "link": "https://github.com/kualta"
