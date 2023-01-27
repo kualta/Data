@@ -5,79 +5,63 @@
             "description": "a hardcore hypercasual game",
             "date": "SEP 2019",
             "status": "Complete",
-            "language": "C#",
+            "theme": "C#",
             "stack": "Unity",
-            "links": [
-                ["github", "https://github.com/kualta/Fuji"]
-            ]
+            "link": "https://github.com/kualta/Fuji"
         },
         {
             "name": "Core",
             "description": "a neat game engine",
             "date": "JAN 2021",
             "status": "Archived",
-            "language": "C++",
+            "theme": "C++",
             "stack": "Core, Magnum, ImGUI",
-            "links": [
-                ["github", "https://github.com/kualta/Core"]
-            ]
+            "link": "https://github.com/kualta/Core"
         },
         {
             "name": "Hemi",
             "description": "an experimental typing trainer",
             "date": "MAR 2022",
             "status": "Complete",
-            "language": "Rust",
+            "theme": "Rust",
             "stack": "WASM, Dioxus",
-            "links": [
-                ["github", "https://github.com/kualta/Hemi"],
-                ["use", "https://kualta.github.io/Hemi/"]
-            ]
+            "link": "https://github.com/kualta/Hemi"
         },
         {
             "name": "Pomo",
             "description": "a simple pomodoro timer",
             "date": "SEP 2022",
             "status": "Complete",
-            "language": "Rust",
+            "theme": "Rust",
             "stack": "WASM, Dioxus",
-            "links": [
-                ["github", "https://github.com/kualta/Pomo"],
-                ["use", "https://kualta.github.io/Pomo/"]
-            ]
+            "link": "https://github.com/kualta/Pomo"
         },
         {
             "name": "Site",
             "description": "a personal website",
             "date": "SEP 2022",
             "status": "Complete",
-            "language": "Rust",
+            "theme": "Rust",
             "stack": "WASM, Dioxus, Reqwest",
-            "links": [
-                ["github", "https://github.com/kualta/Site"]
-            ]
+            "link": "https://github.com/kualta/Site"
         },
         {
             "name": "Box",
             "description": "a collection of tools for the Bevy Engine",
             "date": "TBD",
             "status": "In Development",
-            "language": "Rust",
+            "theme": "Rust",
             "stack": "Bevy",
-            "links": [
-                ["github", "https://github.com/kualta/Box"]
-            ]
+            "link": "https://github.com/kualta/Box"
         },
         {
             "name": "Snap",
             "description": "a social network analysis pinboard",
             "date": "TBD",
             "status": "In Development",
-            "language": "TypeScript",
+            "theme": "TypeScript",
             "stack": "React, Next.JS",
-            "links": [
-                ["github", "https://github.com/kualta/Snap"]
-            ]
+            "link": "https://github.com/kualta/Snap"
         }
     ],
     "articles": [
@@ -85,12 +69,7 @@
             "name": "Fair Play",
             "description": "the art of online games balance",
             "theme": "Game Design",
-            "links": [
-                [
-                    "read",
-                    "https://lectro.medium.com/fair-play-the-art-of-online-games-balance-658a2cc39ea3"
-                ]
-            ]
+            "link": "https://lectro.medium.com/fair-play-the-art-of-online-games-theme-658a2cc39ea3" 
         }
     ],
     "contacts": [
@@ -108,6 +87,6 @@
             "name": "youtube",
             "handle": "@kualta",
             "link": "https://youtube.com/@kualta"
-        }
+        
     ]
 }
