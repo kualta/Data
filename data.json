@@ -80,8 +80,8 @@
         },
         {
             "name": "email",
-            "description": "jobs@kualta.dev",
-            "link": "mailto:jobs@kualta.dev"
+            "description": "contact@kualta.dev",
+            "link": "mailto:contact@kualta.dev"
         },
         {
             "name": "youtube",
@@ -90,8 +90,8 @@
         },
         {
             "name": "twitter",
-            "description": "@realkualta",
-            "link": "https://twitter.com/realkualta"
+            "description": "@kualts",
+            "link": "https://twitter.com/kualts"
         }
     ]
 }
